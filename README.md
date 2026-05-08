@@ -1,5 +1,7 @@
 # Craftista Microservices Helm Charts
 
+- Ignore this fork, please.
+
 A comprehensive GitOps-based solution for deploying and promoting microservices across environments using Helm charts, ArgoCD, and Kargo.
 
 ## Overview
