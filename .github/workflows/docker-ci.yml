@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_HUB_USERNAME: ScratchJoe301
+  DOCKER_HUB_USERNAME: scratchjoe301
   DOCKER_HUB_REPOSITORY: microservice-frontend
 
 jobs:
