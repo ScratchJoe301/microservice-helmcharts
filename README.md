@@ -129,7 +129,7 @@ kubectl get promotions -n craftista
 
 This repository includes a GitHub Actions workflow for building and pushing Docker images to Docker Hub:
 
-- **Repository**: ScratchJoe301/microservice-frontend
+- **Repository**: scratchjoe301/microservice-frontend
 - **Versioning**: Semantic versioning based on commit messages
   - `feat:` - Minor version bump
   - `fix:` - Patch version bump

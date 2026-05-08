@@ -1,5 +1,5 @@
 image:
-  repository: ScratchJoe301/microservice-voting
+  repository: scratchjoe301/microservice-voting
   tag: 1.0.1
 replicaCount: 2
 resources:

@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: ScratchJoe301/microservice-frontend
+  repository: scratchjoe301/microservice-frontend
   tag: latest
   pullPolicy: Always
 

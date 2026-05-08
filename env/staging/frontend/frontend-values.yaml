@@ -1,5 +1,5 @@
 image:
-  repository: ScratchJoe301/microservice-frontend
+  repository: scratchjoe301/microservice-frontend
   tag: 1.0.10
 
 replicaCount: 2

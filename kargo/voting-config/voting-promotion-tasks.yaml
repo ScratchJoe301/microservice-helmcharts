@@ -6,9 +6,9 @@ metadata:
 spec:
   vars:
     - name: image
-      value: docker.io/ScratchJoe301/microservice-voting
+      value: docker.io/scratchjoe301/microservice-voting
     - name: repoURL
-      value: https://github.com/ScratchJoe301/microservice-helmcharts
+      value: https://github.com/scratchjoe301/microservice-helmcharts
     - name: branch
       value: main
     - name: envPath

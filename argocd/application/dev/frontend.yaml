@@ -8,7 +8,7 @@ metadata:
 spec:
   project: craftista
   source:
-    repoURL: https://github.com/ScratchJoe301/microservice-helmcharts
+    repoURL: https://github.com/scratchjoe301/microservice-helmcharts
     targetRevision: main
     path: service-charts/frontend
     helm:
